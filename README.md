@@ -13,7 +13,8 @@ Thank you for attending! Here are all the free resources I mentioned during the 
 
 | Resource | What You Get | Link |
 |----------|-------------|------|
-| **AWS Builder Center** | Badges, free Skill Builder Premium (12 months), certification vouchers | https://builder.aws.com/content/3JWzfgZRNQCfDQMt351ySEUKELK/how-to-get-12-months-of-aws-skill-builder-for-free|
+| **AWS Builder Center** | Badges, free Skill Builder Premium (12 months), certification vouchers | [builder.aws](https://builder.aws) |
+| **Free 12 Month Skill Builder (Step by Step Guide)** | How to sign up for 12 months of AWS Skill Builder for free | [Sign Up Guide](https://builder.aws.com/content/3JWzfgZRNQCfDQMt351ySEUKELK/how-to-get-12-months-of-aws-skill-builder-for-free) |
 | **AWS Skill Builder** | 1,000+ free courses, hands on labs, exam prep | [skillbuilder.aws](https://aws.amazon.com/training/digital/) |
 | **AWS Student Hub** | Student resources, community connections, exclusive content | [community.aws/students](https://community.aws/students) |
 
@@ -37,7 +38,7 @@ Thank you for attending! Here are all the free resources I mentioned during the 
 
 | Step | What to Do |
 |------|-----------|
-| **Situation** | Set the scene — give context (2 sentences max) |
+| **Situation** | Set the scene, give context (2 sentences max) |
 | **Task** | What was YOUR responsibility? |
 | **Action** | What did YOU specifically do? (Use "I", not "we") |
 | **Result** | What was the outcome? Use numbers wherever possible |
@@ -56,8 +57,8 @@ Thank you for attending! Here are all the free resources I mentioned during the 
 
 Pick ONE and do it this week:
 
-- [ ] Apply one principle — own a group project, learn something outside your syllabus
-- [ ] Start one project — even if it's small and messy
+- [ ] Apply one principle: own a group project, learn something outside your syllabus
+- [ ] Start one project, even if it's small and messy
 - [ ] Sign up for the AWS Builder Center and earn your first badge
 - [ ] Update your LinkedIn profile with one new project or skill
 
@@ -65,5 +66,6 @@ Pick ONE and do it this week:
 
 > "You do not need a corporate badge to think like a leader."
 
-Made with ☁️ by Itumeleng Mokgako | AWS Golden Jacket Holder
+Made with ☁️ by Itumeleng Mokgako | AWS Solutions Architect
+
 
