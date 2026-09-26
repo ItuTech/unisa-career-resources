@@ -2,7 +2,7 @@
 # Building Your Tech Career: From Campus to Industry 🚀
 
 ### Career Talk | AWS Student Community Day | UNISA
-**Speaker:** Itumeleng Mokgako | AWS Golden Jacket Holder
+**Speaker:** Itumeleng Mokgako | Solutions Architect, AWS
 **Date:** 26 September 2026
 
 Thank you for attending! Here are all the free resources I mentioned during the talk.
@@ -66,6 +66,6 @@ Pick ONE and do it this week:
 
 > "You do not need a corporate badge to think like a leader."
 
-Made with ☁️ by Itumeleng Mokgako | AWS Solutions Architect
+Made with ☁️ by Itumeleng Mokgako
 
 
