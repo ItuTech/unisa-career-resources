@@ -13,7 +13,7 @@ Thank you for attending! Here are all the free resources I mentioned during the 
 
 | Resource | What You Get | Link |
 |----------|-------------|------|
-| **AWS Builder Center** | Badges, free Skill Builder Premium (12 months), certification vouchers | [builder.aws](aws.amazon.com/developer/) |
+| **AWS Builder Center** | Badges, free Skill Builder Premium (12 months), certification vouchers | [AWS Builder Center](https://aws.amazon.com/developer/) |
 | **Free 12 Month Skill Builder (Step by Step Guide)** | How to sign up for 12 months of AWS Skill Builder for free | [Sign Up Guide](https://dev.to/aws-builders/free-aws-certification-for-students-the-complete-step-by-step-guide-3m1m) |
 | **AWS Skill Builder** | 1,000+ free courses, hands on labs, exam prep | [skillbuilder.aws](https://aws.amazon.com/training/digital/) |
 | **AWS Student Hub** | Student resources, community connections, exclusive content | [community.aws/students](https://community.aws/students) |
