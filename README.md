@@ -23,7 +23,7 @@ Thank you for attending! Here are all the free resources I mentioned during the 
 | Resource | What It Does | Link |
 |----------|-------------|------|
 | **Kiro** | Agentic AI development from prototype to production | [kiro.dev](https://kiro.dev/) |
-| **Config Control for Kiro** | Open-source visual graphical user interface (GUI) dashboard  | [kiro.dev-labs](https://github.com/kirodotdev-labs/config-control-kiro)) |
+| **Config Control for Kiro** | Open-source visual graphical user interface (GUI) dashboard  | [kiro.dev-labs](https://github.com/kirodotdev-labs/config-control-kiro) |
 | **AWS Developers YouTube** | Tutorials, Kiro walkthroughs, developer content | [youtube.com/@awsdevelopers](https://www.youtube.com/@awsdevelopers) |
 
 ## 🌍 Community
